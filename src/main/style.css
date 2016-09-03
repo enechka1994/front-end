@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #bbb445;
+}
+
+.div-example {
+  height: 200px;
+  background: rgb(53, 181, 81);
+  margin-bottom: 10px;
+  padding: 20px;
+  display: inline-block;
+}
+
+span {
+  height: 200px;
+  background: rgb(59, 177, 219);
+  width: 200px;
+  padding-right: 10px;
+}
+
+.first-style {
+  background-color: #458888;
+  border-radius: 3px;
+  margin: 20px 10px 30px 15px;
+  padding: 20px 10px 30px 15px;
+  color: #ffffff;
+  /*float: right;*/
+  /*width: 300px;*/
+  text-align: right;
+}
